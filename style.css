@@ -1,0 +1,8 @@
+/* styles for front*/
+.gpress-block-price{width:100%;display:flex;flex-flow:row wrap;justify-content:space-between;padding:12px 25px;background:#fff;color:#333;margin:10px 0 0;border-bottom:1px dashed #e7e7e7; font-size: inherit}
+.gpress-block-price p{margin:0}
+.gp-block-num{font-weight:700;margin-left:auto;color:#776d8a}
+@media only screen and (max-width:1100px){.gpress-block-price {font-size: 16px}.gpress-block-price p{flex-basis: 75%}}
+@media only screen and (max-width:700px){.gpress-block-price {font-size: 15px;padding: 12px 0}}
+@media only screen and (max-width:414px){.gpress-block-price p{flex-basis: 65%}}
+@media only screen and (max-width:375px){.gpress-block-price p{flex-basis: 55%; font-size: 14px} .gp-block-num {font-size: 14px}}

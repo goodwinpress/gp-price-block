@@ -1,0 +1,4 @@
+/* styles for editor*/
+.gp-block-price{background:#f7f6fb;padding:20px 15px;color:#333}
+.gp-block-price input{width:20%!important;border:1px solid #e7e7e7;border-radius:0;margin:0 1%;padding:10px}
+.gp-block-price input:first-child{width:76%!important}
