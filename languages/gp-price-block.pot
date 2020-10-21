@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Price list for Gutenberg\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-18 07:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <goodwinpress@ya.ru>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: price-block.js:7
+msgid "Price list"
+msgstr "Прайс-лист"
+
+#: price-block.js:8
+msgid "Easy way to bring price list in Gutenberg. Just click the button in the block manager and fill the inputs with product name and cost"
+msgstr ""
+
+#: price-block.js:46
+msgid "Product or service name"
+msgstr ""
+
+#: price-block.js:56
+msgid "Price"
+msgstr ""
+
+#. Name of the plugin
+msgid "GP Price block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy way to make fast and handy price lists using Gutenberg editor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alex Goodwin"
+msgstr ""
