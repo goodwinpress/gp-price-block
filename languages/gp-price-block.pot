@@ -12,14 +12,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/"
+"X-Generator: Poedit 1.6.4\n"
+
+#: price-block.js:6
+msgid "Price list"
+msgstr ""
 
 #: price-block.js:7
-msgid "Price list"
-msgstr "Прайс-лист"
-
-#: price-block.js:8
-msgid "Easy way to bring price list in Gutenberg. Just click the button in the block manager and fill the inputs with product name and cost"
+msgid "Easy way to bring price list to Gutenberg. Just click the button in the block manager and fill the inputs with product name and cost"
 msgstr ""
 
 #: price-block.js:46
@@ -35,7 +35,7 @@ msgid "GP Price block"
 msgstr ""
 
 #. Description of the plugin
-msgid "Easy way to make fast and handy price lists using Gutenberg editor"
+msgid "Simple WordPress plugin to add a new block to the Gutenberg editor for fast and handy price lists making"
 msgstr ""
 
 #. Author of the plugin
