@@ -2,12 +2,11 @@
 	var el = element.createElement;
 	var __ = i18n.__;
 
-
 	blocks.registerBlockType( 'gpress-block/price', {
-		title: i18n.__( 'Прайс-лист', 'gp-price-block' ),
+		title: i18n.__( 'Price list', 'gp-price-block' ),
 		description: i18n.__( 'Easy way to bring price list in Gutenberg. Just click the button in the block manager and fill the inputs with product name and cost', 'gp-price-block' ),
 		icon: {
-			background: '#fce2ce',
+			background: '#f7f6fb',
 			foreground: '#333',
 			src: 'editor-table',
 			},
